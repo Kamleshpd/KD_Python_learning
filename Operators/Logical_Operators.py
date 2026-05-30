@@ -23,3 +23,11 @@ ans1 = ( a > b) and (c > d)
 ans2 = ( a > b) or (c > d)
 print(ans1)
 print(ans2)
+
+
+num1 = 15
+num2 = 17
+if(num1 < num2):
+    print("num1 is smaller than num2")
+else:
+    print("num1 is not smaller than num2")
